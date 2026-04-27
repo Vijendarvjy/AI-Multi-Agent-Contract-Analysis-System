@@ -1,1 +1,10 @@
-
+streamlit
+langchain
+langgraph
+langchain-openai
+langchain-community
+langchain-pinecone
+pinecone
+pypdf
+python-dotenv
+pydantic
